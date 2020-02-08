@@ -12,3 +12,6 @@ keras.io
 
 https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
 
+
+This repo is created during internship at PT. GRIA INOVASI TEKNOLOGI (GRIT — https://grit.id) on January 2020
+
